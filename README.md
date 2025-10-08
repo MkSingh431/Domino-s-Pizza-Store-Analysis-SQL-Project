@@ -140,7 +140,7 @@ Work through real-world scenarios and exercises as you move through each section
 
 ## Author - Mk Singh
 
-This project is part of **Triadev India**, showcasing SQL Projects essential for data analyst roles. You can explore all projects at [traidev.com](https://www.traidev.com) and discover more data analyst resources and projects there.
+This project is part of **Triadev India**, showcasing SQL Projects essential for data analyst roles. You can explore all projects at [traidev.com] and discover more data analyst resources and projects there.
 
 
 ### Stay Updated and Join the Community

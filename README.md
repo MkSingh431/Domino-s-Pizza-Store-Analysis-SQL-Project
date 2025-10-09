@@ -1,9 +1,5 @@
 ![dominoz pizza](https://traidev.com/thumb/dominos.png)
 
-
-
-
-
 # 🍕 Domino’s Pizza Store Analysis SQL Project
 
 ## Project Overview
